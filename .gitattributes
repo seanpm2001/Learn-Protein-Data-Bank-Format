@@ -32,6 +32,16 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
+# Protein Data Bank Format language source file
+*.brk linguist-detectable=true
+*.brk linguist-documentation=false
+*.brk linguist-language=Protein-Data-Bank-Format
+*.ent linguist-detectable=true
+*.ent linguist-documentation=false
+*.ent linguist-language=Protein-Data-Bank-Format
+*.pdb linguist-detectable=true
+*.pdb linguist-documentation=false
+*.pdb linguist-language=Protein-Data-Bank-Format
 # Less stylesheet file
 *.less linguist-detectable=true
 *.less linguist-documentation=false
@@ -161,10 +171,13 @@
 *.gif linguist-detectable=false
 *.gif linguist-documentation=false
 *.gif linguist-language=GIF
+
 # End of linguist script
 
 # File info
-# File type: gitattributes file (.gitattributes)
-# File version: 4 (2022, Tuesday, June 28th at 2:32 pm PST)
-# Line count (including blank lines and compiler line): 171
+
+# File type: gitattributes file (*.gitattributes)
+# File version: 5 (2025, Tuesday, September 23rd at 10:58 pm PST)
+# Line count (including blank lines and compiler line): 184
+
 # End of script
